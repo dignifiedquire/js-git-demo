@@ -15,4 +15,4 @@ $ node server.js
 
 
 [chrisdickinson]: https://github.com/chrisdickinson
-[gist]:
+[gist]: https://gist.github.com/chrisdickinson/5290339
