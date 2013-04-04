@@ -10,6 +10,7 @@ $ cd js-git-demo
 $ npm install
 $ browserify client.js > bundle.js
 $ node server.js
+$ open http://localhost:9999
 ```
 
 
